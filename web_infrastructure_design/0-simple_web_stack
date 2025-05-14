@@ -1,0 +1,7 @@
+                                                   _____________________
+_______________________  request www.foobar.com    | Server 8.8.8.8    |
+| Client (Web Browser)| -------------------------> |Application Server |
+|_____________________|<-------------------------- |Files              |
+                              HTTP response        |MySQL              |
+                                                   |Nginx (server)     |
+                                                   |___________________|
